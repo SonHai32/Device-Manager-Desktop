@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "883814d1-3c1e-4c46-8b72-870c20c3832c": {
+      "ProjectGuid": "883814d1-3c1e-4c46-8b72-870c20c3832c",
+      "DisplayName": "Network Device Manager Desktop",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

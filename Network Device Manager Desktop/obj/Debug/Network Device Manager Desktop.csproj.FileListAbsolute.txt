@@ -1,0 +1,66 @@
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Network Device Manager Desktop.exe.config
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Network Device Manager Desktop.exe
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Network Device Manager Desktop.pdb
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.csproj.AssemblyReference.cache
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network_Device_Manager_Desktop.Form1.resources
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network_Device_Manager_Desktop.Properties.Resources.resources
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.csproj.GenerateResource.cache
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.csproj.CoreCompileInputs.cache
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.exe
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.pdb
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\obj\Debug\Network Device Manager Desktop.csproj.CopyComplete
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Buffers.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Memory.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Text.Json.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Threading.Channels.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.ValueTuple.dll
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Buffers.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Memory.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Text.Json.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Threading.Channels.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lamso\source\repos\Network Device Manager Desktop\Network Device Manager Desktop\bin\Debug\System.ValueTuple.xml
